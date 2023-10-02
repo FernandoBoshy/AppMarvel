@@ -1,0 +1,3 @@
+[submodule "App-Marvel"]
+	path = App-Marvel
+	url = https://github.com/FernandoBoshy/AppMarvel.git
